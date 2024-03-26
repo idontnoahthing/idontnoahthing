@@ -1,5 +1,5 @@
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/idontnoahthing?cardType=level&theme=nightowl&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/idontnoahthing?cardType=level&theme=dark&preferLogin=true&Background=293F94&Text=FFFFFF&Ring=D1D3D4)](https://git.io/awesome-stats-card)
 
 <!--
 **idontnoahthing/idontnoahthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
